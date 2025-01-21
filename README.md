@@ -10,4 +10,4 @@
 
 - 
 
-📫 How to reach me: [gengaru617science@gmail.com](mailto:gengaru617science@gmail.com)
+📫 How to reach me: [matsuzawa.takumi@outlook.jp](mailto:gengaru617science@gmail.com)
