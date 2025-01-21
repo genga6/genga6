@@ -8,6 +8,6 @@
 
 ### 🔨 Projects
 
-- 
+- Currently participating in the [**Autores**](https://www.autores.one/), which aims to build an AI that autonomously executes the research cycle.
 
-📫 How to reach me: [matsuzawa.takumi@outlook.jp](mailto:gengaru617science@gmail.com)
+📫 How to reach me: [matsuzawa.takumi@outlook.jp](mailto:matsuzawa.takumi@outlook.jp)
