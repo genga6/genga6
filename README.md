@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🌱 I’m currently learning LLM-powered product development. 
+- I’m currently learning LLM-powered product development. 
 
-⚡ Fun fact: I enjoy illustrating in my free time — my profile picture is one of my own creations!
+- Fun fact: I enjoy illustrating in my free time — my profile picture is one of my own creations!
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,fastapi,ts,terraform,docker,githubactions)](https://skillicons.dev)
 
