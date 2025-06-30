@@ -4,7 +4,7 @@
 
 - Fun fact: I enjoy illustrating in my free time — my profile picture is one of my own creations!
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,fastapi,ts,terraform,docker,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,svelte,terraform,docker)](https://skillicons.dev)
 
 ### 🔨 Projects
 
