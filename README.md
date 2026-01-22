@@ -3,7 +3,7 @@
 - I’m currently learning about LLM-powered systems. 
 - Fun fact: I enjoy illustrating in my free time — my profile picture is one of my own creations!
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,svelte,terraform,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,svelte,rust,terraform,docker)](https://skillicons.dev)
 
 ### 🔨 Projects
 - [**Autores**](https://www.autores.one/) - Participating in a project that aims to build an AI system capable of autonomously executing the research cycle.
