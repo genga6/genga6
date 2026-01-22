@@ -7,7 +7,7 @@
 
 ### 🔨 Projects
 - [**Autores**](https://www.autores.one/) - Participating in a project that aims to build an AI system capable of autonomously executing the research cycle.
-- [**hitoQ**](https://hitoq.net) - Developed a profile service that helps people share their personality through Q&A and connect with others.
+- [**hitoQ**](https://hitoq.net) (currently unavailable) - Developed a profile service that helps people share their personality through Q&A and connect with others.
 - 
 
 📫 How to reach me: [matsuzawa.takumi@outlook.jp](mailto:matsuzawa.takumi@outlook.jp)
